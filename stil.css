@@ -1,0 +1,43 @@
+p {
+	color: dimgray;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 16px;
+	width: 300px;
+	background-color: antiquewhite;
+	padding: 15px;
+} 
+.paragraf_2 {color:lavanderblush; background-color: rgba(10, 10, 10, 0.8); border-radius: 5px;}
+.novi_blok {
+	background-color: rgba(70, 130, 180, 0.3);
+	padding: 50px;
+	margin: 40px;
+	width: 30%;
+	border-radius: 15px;
+}
+h1, h2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color:cornsilk;
+}
+
+span {color: firebrick;}
+.pozadina{
+	background-image: url("slike/05-zadatak-Susec-Gabriela.jpg");
+}
+.drugapozadina {
+	background-color: lavender;
+}
+a:link {
+	color: black;
+	background-color: cornsilk;
+	padding: 6px;
+	line-height: 40px;
+	border: 1px solid #000000;
+	border-radius: 10px;
+}
+a:hover{
+	background-color: darkgray;
+}
+img {
+	height: 350px;
+}
